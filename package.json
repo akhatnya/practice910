@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/akhatnya/practice910#readme",
   "devDependencies": {
+    "express": "^4.17.1",
     "pg": "^7.13.0"
   }
 }
